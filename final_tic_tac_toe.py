@@ -4,7 +4,10 @@ import requests
 import random
 import ast
 
-
+#for checking in:
+#find out what each git command means
+#recreate acess token
+#add a README
 board = {}
 board['A1'] = '    '
 board['A2'] = '    '
